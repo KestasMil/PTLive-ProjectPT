@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTLive", "PTLive.csproj", "{F7996A12-95EA-41A7-8D4A-CB3582D8EFCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLITester", "CLITester\CLITester.csproj", "{95F1899A-E0F2-47F9-91CC-F4DC7FCF5229}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7996A12-95EA-41A7-8D4A-CB3582D8EFCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7996A12-95EA-41A7-8D4A-CB3582D8EFCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7996A12-95EA-41A7-8D4A-CB3582D8EFCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7996A12-95EA-41A7-8D4A-CB3582D8EFCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95F1899A-E0F2-47F9-91CC-F4DC7FCF5229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95F1899A-E0F2-47F9-91CC-F4DC7FCF5229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95F1899A-E0F2-47F9-91CC-F4DC7FCF5229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95F1899A-E0F2-47F9-91CC-F4DC7FCF5229}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {573C8CBE-D1E3-42CF-B1ED-88F20B6B0BA5}
+	EndGlobalSection
+EndGlobal
